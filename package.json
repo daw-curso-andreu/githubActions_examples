@@ -1,0 +1,11 @@
+{
+  "name": "githubactions_examples",
+  "version": "1.0.0",
+  "description": "Servidor Node.js senzill per provar GitHub Actions amb super-linter",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
